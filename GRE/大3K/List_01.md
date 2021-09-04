@@ -1,9 +1,18 @@
 # List 01
 ## Unit 1
 
-abandon abdicate abase aberrant abash abet abate abeyance abbreviate abhor
+1. abandon
+2. abdicate
+3. abase
+4. aberrant
+5. abash
+6. abet
+7. abate
+8. abeyance
+9. abbreviate
+10. abhor
 
-abandon
+### abandon
 
 [ə'bændən]
 
@@ -33,7 +42,7 @@ abandon
 
 【反】keep, continue, maintain, carry on继续
 
-abase
+### abase
 
 [ə'beɪs] v.降低（地位、职位、威望或尊严）to lower in rank, office, prestige, or esteem
 
@@ -43,7 +52,7 @@ abase
 
 【反】elevate, ennoble, uplift, aggrandize, canonize, deify, exalt使高贵，使有声望
 
-abash
+### abash
 
 [ə'bæʃ] vt.使尴尬，使羞愧to destroy the self-possession or self-confidence of, disconcert, embarrass
 
@@ -53,7 +62,7 @@ abash
 
 【反】embolden使大胆
 
-abate
+### abate
 
 [ə'beɪt]
 
@@ -79,7 +88,7 @@ abate
 
 【近】abrogate, annul, invalidate, nullify, rescind, vacate
 
-abbreviate
+### abbreviate
 
 [ə'brivɪ'et] v.缩写，缩短to make briefer
 
@@ -89,7 +98,7 @@ abbreviate
 
 【反】extend, protract, elongate, lengthen, prolong延长
 
-abdicate
+### abdicate
 
 ['æbdɪket] v.正式放弃（权力、责任）to renounce a throne，to relinquish (power or responsibility) formally
 
@@ -99,7 +108,7 @@ abdicate
 
 【反】constitute, assume, usurp任命，承担，篡位
 
-aberrant
+### aberrant
 
 [æ'bɛrənt] adj.异常的，非常规的deviating from the usual or natural type
 
@@ -109,7 +118,7 @@ aberrant
 
 【反】normal, natural, regular, standard, typical正常的，标准典型的
 
-abet
+### abet
 
 [ə'bɛt]
 
@@ -125,7 +134,7 @@ abet
 
 【反】stymie, frustrate, obstruct, thwart, impede, forestall, hinder阻挠
 
-abeyance
+### abeyance
 
 [ə'beɪəns]n.中止，搁置temporary inactivity
 
@@ -135,7 +144,7 @@ abeyance
 
 【反】continuance, fulfillment继续，履行
 
-abhor
+### abhor
 
 [əb'hɔr] vt.深恶痛绝，极度厌恶to regard with extreme repugnance
 
@@ -145,9 +154,20 @@ abhor
 
 【反】greatly admire非常崇拜
 
-Unit 2 abiding aboveboard abject abrade abjure abridge abnegate abrogate abominate abscond
+## Unit 2
 
-abiding
+1. abiding
+2. aboveboard
+3. abject
+4. abrade
+5. abjure
+6. abridge
+7. abnegate
+8. abrogate
+9. abominate
+10. abscond
+
+### abiding
 
 [ə'baɪdɪŋ] vt.永久的lasting for a long time; enduring
 
@@ -157,7 +177,7 @@ abiding
 
 【反】evanescent, ephemeral短暂的
 
-abject
+### abject
 
 ['æbdʒɛkt]
 
