@@ -139,7 +139,7 @@ hut [] n.小屋，茅舍（）
 重要的点
 ---
 
-acme ['ækmi] n.顶点，极点（the highest point or stage; also: one that represents perfection of the thing expressed）
+acme ['ækmi] n.顶点，极点（the highest point or stage; also: one that represents perfection of the thing expressed）
 
 apex ['epɛks] n.顶点，最高点（the uppermost point: vertex；the apex of a mountain）
 
