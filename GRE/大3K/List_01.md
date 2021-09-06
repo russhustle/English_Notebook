@@ -199,7 +199,7 @@
 
 【近】base, humble, menial, servile, slavish
 
-abjure
+### abjure
 
 [əb'dʒʊr]
 
@@ -219,7 +219,7 @@ abjure
 
 【反】bow to, give in to, submit to, succumb to, surrender to, yield to屈从于
 
-abnegate
+### abnegate
 
 ['æbnɪgeɪt]
 
@@ -239,7 +239,7 @@ abnegate
 
 【反】adhere to依附，坚持
 
-abominate
+### abominate
 
 v.憎恶to hate or loathe intensely, abhor
 
@@ -249,7 +249,7 @@ v.憎恶to hate or loathe intensely, abhor
 
 【反】esteem, love, adore尊敬
 
-aboveboard
+### aboveboard
 
 [ə'bʌv'bord] adj.无欺诈的，光明正大的free from all traces of deceit or duplicity
 
@@ -257,7 +257,7 @@ aboveboard
 
 【反】chicanery, surreptitious, underhanded偷偷摸摸的
 
-abrade
+### abrade
 
 v.磨损，精神上折磨to rub or wear away especially by friction; wear down spiritually
 
@@ -267,7 +267,7 @@ v.磨损，精神上折磨to rub or wear away especially by friction; wear down 
 
 【反】augment增加
 
-abridge
+### abridge
 
 ❶ v.缩短，缩小to shorten in duration or extent
 
@@ -283,7 +283,7 @@ abridge
 
 【近】abbreviate, curtail, condense, syncopate
 
-abrogate
+### abrogate
 
 ❶ v.官方的正式废除to abolish by authoritative action, annul
 
@@ -297,7 +297,7 @@ abrogate
 
 【例】abrogate their responsibilities抛开、不顾他们的责任
 
-abscond
+### abscond
 
 v.偷偷离开to depart secretly and hide oneself
 
@@ -305,9 +305,20 @@ v.偷偷离开to depart secretly and hide oneself
 
 【近】flee, lam, run off, break out (of), clear out
 
-Unit 3 absolute abstruse absolve absurd abstain abstemious abundant abuse abstract abut
+## Unit 3
 
-absolute
+1. absolute
+2. abstruse
+3. absolve
+4. absurd
+5. abstain
+6. abstemious
+7. abundant
+8. abuse
+9. abstract
+10. abut
+
+### absolute
 
 ['æbsəlut]
 
@@ -341,7 +352,7 @@ absolute
 
 【反】inconclusive, indecisive, unclear不明确的
 
-absolve
+### absolve
 
 v.使无罪，解除责任to set free from an obligation or the consequences of guilt, exculpate
 
@@ -351,7 +362,7 @@ v.使无罪，解除责任to set free from an obligation or the consequences of 
 
 【反】blame, criminate, incriminate定罪
 
-abstain
+### abstain
 
 v.自我克制，主动戒绝to refrain from something by one's own choice
 
@@ -361,7 +372,7 @@ v.自我克制，主动戒绝to refrain from something by one's own choice
 
 【反】bow to, give in to, submit to, succumb to, surrender to, yield to屈服于
 
-abstemious
+### abstemious
 
 adj.（吃喝等）有节制的，节俭的marked by restraint especially in the consumption of food or alcohol, sparring
 
@@ -371,7 +382,7 @@ adj.（吃喝等）有节制的，节俭的marked by restraint especially in the
 
 【反】indulgent放纵的
 
-abstract
+### abstract
 
 ❶ vt.做总结，概括to make an abstract of，summarize
 
@@ -391,7 +402,7 @@ abstract
 
 【反】attention关注
 
-abstruse
+### abstruse
 
 adj.难以理解的difficult to comprehend: recondite
 
@@ -401,7 +412,7 @@ adj.难以理解的difficult to comprehend: recondite
 
 【反】accessible, patent, shallow, superficial可了解的，肤浅的
 
-absurd
+### absurd
 
 adj.不合理的ridiculously unreasonable, unsound, or incongruous
 
@@ -411,7 +422,7 @@ adj.不合理的ridiculously unreasonable, unsound, or incongruous
 
 【反】rational, sensible, realistic, reasonable理性的，合理的
 
-abundant
+### abundant
 
 adj.大量的marked by great plenty (as of resources)
 
@@ -421,7 +432,7 @@ adj.大量的marked by great plenty (as of resources)
 
 【反】infrequent, rare, uncommon, inadequate, scanty, scarce稀少的，罕见的
 
-abuse
+### abuse
 
 ❶ v.辱骂抨击language that condemns or vilifies usually unjustly, intemperately, and angrily
 
@@ -437,7 +448,7 @@ abuse
 
 【近】misemploy, misuse
 
-abut
+### abut
 
 v.邻接，毗邻to touch at one end or side; lie adjacent
 
@@ -445,9 +456,20 @@ v.邻接，毗邻to touch at one end or side; lie adjacent
 
 【近】skirt, verge on, border on, butt on, march with
 
-Unit 4 abysmal accidental accede acclimate accelerate accolade accessible accommodate accessory accost
+## Unit 4
 
-abysmal
+1. abysmal
+2. accidental
+3. accede
+4. acclimate
+5. accelerate
+6. accolade
+7. accessible
+8. accommodate
+9. accessory
+10. accost
+
+### abysmal
 
 ❶ adj.极低的或极可怜的immeasurably low or wretched
 
@@ -465,7 +487,7 @@ abysmal
 
 【反】skin-deep, superficial肤浅的
 
-accede
+### accede
 
 ❶ v.赞成to express approval or give consent
 
@@ -479,7 +501,7 @@ accede
 
 【例】accede to the throne就任国王
 
-accelerate
+### accelerate
 
 ❶ v.加速to cause to move faster
 
@@ -501,7 +523,7 @@ accelerate
 
 【反】contract, decrease, diminish, dwindle, lessen, recede, wane
 
-accessible
+### accessible
 
 [ək'sɛsəbl]
 
