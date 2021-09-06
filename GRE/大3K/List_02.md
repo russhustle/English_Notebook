@@ -1,8 +1,19 @@
-List 02
+# List 02
 
-Unit 1 amorphous anecdote analgesic anemic anarchist anesthetic anathema animate ancillary animus
+## Unit 1
 
-amorphous
+1. amorphous
+2. anecdote
+3. analgesic
+4. anemic
+5. anarchist
+6. anesthetic
+7. anathema
+8. animate
+9. ancillary
+10. animus
+
+### amorphous
 
 [ə'mɔrfəs]
 
@@ -18,7 +29,7 @@ amorphous
 
 【近】unclassifiable
 
-analgesic
+### analgesic
 
 ['ænl'dʒizɪk] n.镇痛剂a medication that reduces or eliminates pain
 
@@ -26,7 +37,7 @@ analgesic
 
 【同】anesthetic, anodyne
 
-anarchist
+### anarchist
 
 ['ænɚkɪst] n.反抗权威的人，无政府主义者a person who rebels against any authority, established order, or ruling power
 
@@ -38,7 +49,7 @@ anarchist
 
 【反】order有序
 
-anathema
+### anathema
 
 [ə'næθəmə] n.诅咒a ban or curse solemnly pronounced by ecclesiastical authority and accompanied by excommunication
 
@@ -46,7 +57,7 @@ anathema
 
 【反】benediction, benison, blessing祝福
 
-ancillary
+### ancillary
 
 ['ænsəlɛri]
 
@@ -66,7 +77,7 @@ ancillary
 
 【近】auxiliary, supplementary
 
-anecdote
+### anecdote
 
 ['ænɪkdəʊt] n.短小有趣的故事a usually short narrative of an interesting, amusing, or biographical incident
 
@@ -74,7 +85,7 @@ anecdote
 
 【例】He is a master raconteur with endless anecdotes.他是讲故事的超级高手，总有讲不完的奇闻趣事
 
-anemic
+### anemic
 
 [əˈnimɪk] adj.缺乏力量、活力、精神的lacking force, vitality, or spirit
 
@@ -86,7 +97,7 @@ anemic
 
 【反】vigorous, spirited精力充沛的；forceful有力量的
 
-anesthetic
+### anesthetic
 
 [ˌænɪs'θɛtɪk]
 
@@ -102,7 +113,7 @@ anesthetic
 
 【反】sensate有感觉的
 
-animate
+### animate
 
 ['ænɪmeɪt]
 
@@ -144,7 +155,7 @@ animate
 
 【例】Kungfu Panda's very realistic panda was animated by CG.《功夫熊猫》电影里面的熊猫是通过CG技术使熊猫变得活灵活现的
 
-animus
+### animus
 
 ['ænɪməs] n.敌意a usually prejudiced and often spiteful or malevolent ill will, enmity
 
@@ -154,9 +165,20 @@ animus
 
 【反】friendliness, amity, amenity友好
 
-Unit 2 annoy annul anomalous antediluvian anterior antic anonymous apathy antagonize aphorism
+## Unit 2 
 
-annoy
+1. annoy
+2. annul
+3. anomalous
+4. antediluvian
+5. anterior
+6. antic
+7. anonymous
+8. apathy
+9. antagonize
+10. aphorism
+
+### annoy
 
 [ə'nɔɪ] vt.不断烦扰to disturb or irritate especially by repeated acts
 
@@ -168,7 +190,7 @@ annoy
 
 【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue, solace, mollify平息，抚慰
 
-annul
+### annul
 
 [əˈnʌl]
 
@@ -186,7 +208,7 @@ annul
 
 【近】counterbalance, neutralize
 
-anomalous
+### anomalous
 
 [ə'nɑmələs]
 
@@ -206,7 +228,7 @@ anomalous
 
 【反】natural自然的；standard标准的
 
-anonymous
+### anonymous
 
 [ə'nɑnəməs]
 
@@ -224,7 +246,7 @@ anonymous
 
 【例】the anonymous faces in the crowd大众脸
 
-antagonize
+### antagonize
 
 [æn'tæɡənaɪz]
 
@@ -246,7 +268,7 @@ antagonize
 
 【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue, solace, mollify平息，抚慰
 
-antediluvian
+### antediluvian
 
 [ˌæntɪdɪ'luvɪən]
 
@@ -268,7 +290,7 @@ antediluvian
 
 【反】modern, trendy潮人
 
-anterior
+### anterior
 
 [æn'tɪrɪɚ] adj.前面的coming before in time or development
 
@@ -280,7 +302,7 @@ anterior
 
 【反】after, ensuing, following, posterior, subsequent, succeeding后面的，后来的
 
-antic
+### antic
 
 [ˈæntɪk] adj.滑稽可笑的characterized by clownish extravagance or absurdity
 
@@ -290,7 +312,7 @@ antic
 
 【反】humorless, unamusing, uncomic, unfunny, unhumorous不好笑的grave庄重的；serious, solemn, somber严肃的
 
-apathy
+### apathy
 
 ['æpəθi]
 
@@ -312,7 +334,7 @@ apathy
 
 【反】concern, interest, regard关心，有兴趣，在意
 
-aphorism
+### aphorism
 
 ['æfərɪzəm] n.短小有智慧的格言a short witty sentence which expresses a general truth or comment
 
@@ -320,9 +342,20 @@ aphorism
 
 【近】adage, epigram, maxim, proverb
 
-Unit 3 apocalyptic appeal apocryphal appealing apoplectic applause apostasy apposite appall appreciable
+## Unit 3
 
-apocalyptic
+1. apocalyptic
+2. appeal
+3. apocryphal
+4. appealing
+5. apoplectic
+6. applause
+7. apostasy
+8. apposite
+9. appall
+10. appreciable
+
+### apocalyptic
 
 [ə'pɑkə'lɪptɪk]
 
