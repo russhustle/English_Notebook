@@ -1,8 +1,19 @@
-List 30
+# List 30
 
-Unit 1 acclaim adversity accomplish accord affectation affirm acknowledge agility acquire agreeable
+## Unit 1
 
-acclaim
+1. acclaim
+2. adversity
+3. accomplish
+4. accord
+5. affectation
+6. affirm
+7. acknowledge
+8. agility
+9. acquire
+10. agreeable
+
+### acclaim
 
 ❶ n.称赞public acknowledgment or admiration for an achievement
 
@@ -18,7 +29,7 @@ acclaim
 
 【反】castigate, excoriate, lambaste, pan, slam猛烈抨击
 
-accomplish
+### accomplish
 
 vt.完成，实现to carry through (as a process) to completion
 
